@@ -1,8 +1,8 @@
 # How Many Tabs Do You Have Open?
 
-[![make.fun](https://img.shields.io/badge/make.fun-competition-blue)](https://make.fun)
-[![make.fun entry](https://img.shields.io/badge/entry-47%20tabs-open)](https://make.fun)
-[![Built for make.fun](https://img.shields.io/badge/built%20for-make.fun-brightgreen)](https://make.fun)
+[![make.fun · u-danu-how-many-tabs-do-you-have-open-d86e783d](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d?utm_source=github&utm_medium=readme&utm_campaign=u-danu-how-many-tabs-do-you-have-open-d86e783d)
+[![rank](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d/Flowjack94/u-danu-how-many-tabs-do-you-have-open-d86e783d/rank.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-danu-how-many-tabs-do-you-have-open-d86e783d)
+[![reward](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d/Flowjack94/u-danu-how-many-tabs-do-you-have-open-d86e783d/reward.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d?utm_source=github&utm_medium=readme&utm_campaign=u-danu-how-many-tabs-do-you-have-open-d86e783d)
 
 A [make.fun](https://make.fun) competition entry for **"How Many Tabs Do You Have Open?"**
 (`u-danu-how-many-tabs-do-you-have-open-d86e783d`).
